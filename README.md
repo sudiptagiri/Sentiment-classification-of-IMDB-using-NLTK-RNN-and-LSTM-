@@ -17,3 +17,9 @@ The model assigns a probability score for each sentiment class.<BR>
 Interpreting Results:<BR>
 Based on the highest probability score, classify the text as positive, negative, or neutral.
 Some models also provide confidence scores or probabilities for each class.<BR>
+<BR>
+<BR>
+•	Data sourced from Kaggle, analyzing the variables and understand the domain.
+•	The dataset contains several parameters which are considered important for Sentiment predictions.
+•	Performed preprocessing and symptom matching using python libraries such as regular expressions and NLTK.
+•	Used several deep learning algorithms such as NLTK, SIMPLE RNN and LSTM to evaluate the model and took the model with good accuracy.
